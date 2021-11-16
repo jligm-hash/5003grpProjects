@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+### System template
+# system
+.DS_Store
+Thumbs.db
+Servers
+upload
+gen_code
+*.orig
